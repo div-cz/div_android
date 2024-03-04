@@ -22,4 +22,4 @@ Want to contribute? Great! Here's how you can help:
 - **Suggesting Enhancements**: Have ideas on how to make the app better? Let us know!
 
 ## 📄 License
-This project is licensed under [Add Your License Here]. Please see the LICENSE file for more details.
+This project is licensed under MIT. Please see the `LICENSE.md` file for more details.
